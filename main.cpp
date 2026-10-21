@@ -5,5 +5,6 @@ int main() {
     int b;
     std::cin >> a >> b;
     std::cout << "Сумма: " << a + b << '\n';
+    std::cout << "Произведение: " << a * b << '\n';
     return 0;
 }
